@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="01-local-connection/01-local-connection.csproj" />
+  <Project Path="02-local-connection-streaming/02-local-connection-streaming.csproj" />
 </Solution>
