@@ -4,6 +4,7 @@ namespace _04_multi_agent_system;
 
 /// <summary>
 /// Simple orchestrator that runs multiple agents in sequence.
+/// Sequential Pipeline Orchestrator (Chain pattern)
 /// </summary>
 public class AgentGroupChat(params AIAgent[] agents)
 {
